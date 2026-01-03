@@ -1,4 +1,4 @@
-# ETL_practice_got_fifa_books.py
+# ETL_practice_fifa_books.py
 
 This exercise was created to practice ETL (Extract, Transform, Load) in Python using Pandas.
 The script works with three different datasets:
